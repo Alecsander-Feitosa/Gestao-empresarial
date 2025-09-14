@@ -3,7 +3,7 @@
 ![Banner do Dashboard Principal](https://github.com/Alecsander-Feitosa/Gestao-empresarial/blob/main/fotos/Dashborad.png)
 
 
-*[➡️ Acesse a demonstração ao vivo aqui!](https://gestao-empresax.onrender.com/)*
+*[➡️ Acesse a demonstração ao vivo aqui!](https://gestao-empresax.onrender.com/login)*
 
 ---
 ### **Backend**
