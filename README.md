@@ -1,3 +1,11 @@
+# 🏭 Gestão Framark - Sistema de Gestão de Produção
+
+![Banner do Dashboard Principal](https://github.com/Alecsander-Feitosa/Gestao-empresarial/blob/main/fotos/Dashborad.png)
+
+
+*[➡️ Acesse a demonstração ao vivo aqui!](https://gestao-empresax.onrender.com/)*
+
+---
 ### **Backend**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -16,15 +24,6 @@
 ### **Deploy**
 ![OnRender](https://img.shields.io/badge/OnRender-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-
-# 🏭 Gestão Framark - Sistema de Gestão de Produção
-
-![Banner do Dashboard Principal](https://github.com/Alecsander-Feitosa/Gestao-empresarial/blob/main/fotos/Dashborad.png)
-
-
-*[➡️ Acesse a demonstração ao vivo aqui!](https://gestao-empresax.onrender.com/)*
-
----
 
 ## 📄 Descrição
 
